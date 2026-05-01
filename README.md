@@ -61,8 +61,8 @@ You can download the latest version of the application from the releases section
 
 Danish Satti
 
- - GitHub: https://github.com/your-username
- - LinkedIn: https://linkedin.com/in/your-profile
+ - GitHub: https://github.com/dasatti
+ - LinkedIn: https://linkedin.com/in/danishsatti
 
 ## 🤝 Contributing
 
