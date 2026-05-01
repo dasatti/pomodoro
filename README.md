@@ -37,7 +37,7 @@ This structured approach helps maintain concentration and prevents burnout.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/dasatti/pomodoro-timer.git
+git clone https://github.com/dasatti/pomodoro.git
 cd pomodoro-timer
 ```
 
@@ -49,7 +49,7 @@ python pomodoro.py
 ## ⬇️ Download
 You can download the latest version of the application from the releases section:
 
-👉 https://drive.google.com/drive/folders/1nwCjc8S71XFrKUFuqbU-vXLezODXo94v?usp=sharing
+👉 https://drive.google.com/drive/folders/1nwCjc8S71XFrKUFuqbU-vXLezODXo94v
 
 ## 📸 Preview
 
